@@ -10,3 +10,7 @@ pip install plyer
 
 
 ##The GUI will be available shortly. 
+
+
+# run the code by calling the following in your terminal
+## pythonw clear_img.py
