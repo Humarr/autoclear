@@ -1,6 +1,5 @@
 
 __author__ = "Umar Sa'ad"
-__number__ = "08090935863"
 __email__ = "saaduumar42@gmail.com"
 
 # """
